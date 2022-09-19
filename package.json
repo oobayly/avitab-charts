@@ -1,0 +1,38 @@
+{
+  "name": "avitab-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oobayly/avitab-charts.git"
+  },
+  "author": "John Bayly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oobayly/avitab-charts/issues"
+  },
+  "homepage": "https://github.com/oobayly/avitab-charts#readme",
+  "keywords": [
+    "avitab",
+    "flight simulator",
+    "charts",
+    "AIP"
+  ],
+  "devDependencies": {
+    "@types/jsdom": "^20.0.0",
+    "@types/node": "^18.7.18",
+    "@types/node-fetch": "^2.6.2",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.0",
+    "node-fetch": "^2.6.6",
+    "typescript": "^4.8.3"
+  }
+}
