@@ -40,3 +40,7 @@ lib
 
 # ignore yarn.lock
 yarn.lock
+
+# Charts
+charts/**/*.pdf*
+charts/**/*.png*
