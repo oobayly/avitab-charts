@@ -42,5 +42,7 @@ lib
 yarn.lock
 
 # Charts
-charts/**/*.pdf*
-charts/**/*.png*
+charts/**/*.pdf
+charts/**/*.pdf.etag
+charts/**/*.png
+charts/**/*.tif
