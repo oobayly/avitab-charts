@@ -28,12 +28,14 @@
     "@types/jsdom": "^20.0.0",
     "@types/node": "^18.7.18",
     "@types/node-fetch": "^2.6.2",
+    "@types/proj4": "^2.5.2",
     "@types/yargs": "^17.0.12",
     "ts-node": "^10.9.1"
   },
   "dependencies": {
     "jsdom": "^20.0.0",
     "node-fetch": "^2.6.6",
+    "proj4": "^2.8.0",
     "typescript": "^4.8.3",
     "yargs": "^17.5.1"
   }

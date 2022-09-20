@@ -5,6 +5,7 @@ import yargs = require("yargs");
 import { hideBin } from "yargs/helpers"
 import { downloadDocuments, getAirports } from "./aip-fetcher";
 import { Airport, Document, Region } from "./aip-fetcher/fetcher";
+import { fromEpsg3857 } from "./projection";
 
 const loadChartsConfig = (chartsPath: string): Airport[] => {
   return JSON.parse(readFileSync(
@@ -83,6 +84,24 @@ const argv = yargs(hideBin(process.argv))
 
         execSync(`convert -density 300 -rotate ${config.rotate} "${trgFile}" "${trgFilePng}"`);
       });
+    }
+  )
+  .command(
+    "epsg3857", "Transform coordinates between EPSG:4326 and EPSG:3857",
+    {
+      from: { alias: "f", type: "string" },
+      to: { alias: "t", type: "string" },
+    },
+    (args) => {
+      if (args.from) {
+        const [x, y] = args.from.split(",").map((item) => parseFloat(item));
+        const resp = fromEpsg3857(x, y);
+
+        console.log(resp);
+      } else if (args.to) {
+
+      }
+
     }
   )
   .options({
