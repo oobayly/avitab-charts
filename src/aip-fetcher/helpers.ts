@@ -25,11 +25,5 @@ export const fixText = (value: string): string => {
 }
 
 export const getInnerText = (element: Element): string => {
-  if (!element.childElementCount) {
-    return fixText(element.innerHTML);
-  }
-
-  return [...element.children].map((c) => {
-    return getInnerText(c);
-  }).join("").trim();
+  return fixText(element.textContent || "").trim();
 }

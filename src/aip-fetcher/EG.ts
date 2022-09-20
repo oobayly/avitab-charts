@@ -51,12 +51,15 @@ const getDocuments = async (baseUri: string, apt: Airport): Promise<void> => {
   for (let i = 0; i < rows.length; i += 2) {
     const name = getInnerText(rows[i]);
     const link = rows[i + 1].getElementsByTagName("a")[0];
+    const id = getInnerText(link).replace(`.${icao}`, "").trim();
+    const uri = `${baseUri}eAIP/${link.href}`;
 
     apt.documents.push({
       icao,
-      id: fixText(getInnerText(link)),
+      id,
+      fileName: `${id} ${name}.pdf`,
       name,
-      uri: `${baseUri}eAIP/${link.href}`,
+      uri,
     });
   }
 }

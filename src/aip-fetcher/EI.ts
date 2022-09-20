@@ -42,14 +42,17 @@ async function getDocuments(apt: Airport): Promise<void> {
   rows.shift();
 
   apt.documents = rows.map((r) => {
-    const label = getInnerText(r.children[0].children[0]);
+    const name = getInnerText(r.children[0].children[0]);
     const link = r.getElementsByTagName("a")[0];
+    const id = getInnerText(link).replace(icao, "").trim();
+    const uri = `${BaseUri}${link.href}`;
 
     return {
       icao,
-      id: getInnerText(link),
-      name: label,
-      uri: `${BaseUri}${link.href}`,
+      id,
+      fileName: `${id} ${name}.pdf`,
+      name,
+      uri,
     }
   })
 }

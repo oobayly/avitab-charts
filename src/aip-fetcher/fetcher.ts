@@ -10,10 +10,10 @@ export interface Airport {
 export interface Document {
   icao: string;
   name: string;
+  fileName: string;
   id?: string;
   uri: string;
-  lastModified?: string;
-  etag?: string;
+  vfr?: boolean;
 }
 
 export interface FetcherResult {

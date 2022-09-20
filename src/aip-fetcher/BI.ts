@@ -60,6 +60,7 @@ const getDocuments = async (baseUri: string, apt: Airport): Promise<void> => {
     return {
       icao,
       name,
+      fileName: `${name}.pdf`,
       uri: `${baseUri}eAIP/${href}`,
     };
   });

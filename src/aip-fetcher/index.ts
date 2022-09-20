@@ -33,49 +33,47 @@ export async function downloadDocuments(targetPath: string, airports?: Airport[]
 
     for (let j = 0; j < documents.length; j++) {
       const doc = documents[j];
-      const docPath = path.join(aptPath, `${doc.name}.pdf`);
-      // const etagPath = path.join(aptPath, `${doc.name}.pdf.etag`);
-      // let etag: string | null | undefined = undefined;
+      const docPath = path.join(aptPath, `${doc.fileName}`);
+      const etagPath = path.join(aptPath, `${doc.fileName}.etag`);
+      let etag: string | null | undefined = undefined;
+      const headers: HeadersInit = {};
 
-      // if (existsSync(etagPath)) {
-      //   etag = await readFile(etagPath, "utf-8");
-      // }
+      if (existsSync(etagPath)) {
+        etag = await readFile(etagPath, "utf-8");
+
+        headers["If-None-Match"] = etag;
+      }
+
+      console.log(`Fetching ${doc.uri}...`);
 
       const resp = await fetch(doc.uri, {
-        headers: {
-          // "If-None-Match": etag ? `"${etag}"` : "*",
-          "Accept": "*/*",
-        }
+        headers,
       });
-      // etag = resp.headers.get("etag");
 
-      await writeFile(docPath, await resp.buffer());
+      if (resp.status === 200) {
+        etag = resp.headers.get("etag");
 
-      // if (etag) {
-      //   await writeFile(etagPath, etag);
-      // }
+        await writeFile(docPath, await resp.buffer());
+
+        if (etag) {
+          await writeFile(etagPath, etag);
+        }
+      }
     }
   }
-
-  // Save the charts configuration
-  const configPath = path.join(targetPath, "config.json");
-
-  await writeFile(configPath, JSON.stringify(airports, null, 2));
 
   return airports;
 }
 
-export async function getAirports(...regions: Region[]): Promise<Airport[]> {
+export async function getAirports(regions?: Region[]): Promise<Airport[]> {
   const tasks = AllRegions
     .filter(([region]) => {
-      return !regions.length || regions.includes(region);
+      return !regions?.length || regions.includes(region);
     })
     .map(([_, fetcher]) => fetcher())
     ;
 
-  const results = await Promise.all(tasks);
-
-  return results
+  const results = (await Promise.all(tasks))
     .reduce((list, item) => {
       list.push(...item.airports);
 
@@ -83,4 +81,16 @@ export async function getAirports(...regions: Region[]): Promise<Airport[]> {
     }, [] as Airport[])
     .sort((a, b) => a.icao.localeCompare(b.icao))
     ;
+
+  // Update the VFR flag    
+  const vfr = /(2-4-[0-9]|vfr|vrp|visual approach)/i;
+  results.forEach((apt) => {
+    apt.documents?.forEach((doc) => {
+      if (vfr.test(doc.fileName)) {
+        doc.vfr = true;
+      }
+    });
+  })
+
+  return results;
 }
