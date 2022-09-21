@@ -6,6 +6,7 @@ import yargs = require("yargs");
 import { hideBin } from "yargs/helpers"
 import { downloadDocuments, getAirports } from "./aip-fetcher";
 import { Airport, Document, Region } from "./aip-fetcher/fetcher";
+import { calibrate } from "./calibrator";
 
 const loadChartsConfig = (chartsPath: string): Airport[] => {
   return JSON.parse(readFileSync(
@@ -105,6 +106,26 @@ const argv = yargs(hideBin(process.argv))
         const [x, y] = proj.forward([lng, lat]);
 
         console.log(`${x},${y}`);
+      }
+    }
+  )
+  .command(
+    "calibrate", "",
+    {
+      icao: { alias: "i" },
+    },
+    async (args) => {
+      const chartsPath = args.path as string;
+      const airports = loadChartsConfig(chartsPath);
+      const docs = airports
+        .find((apt) => apt.icao === args.icao)
+        ?.documents?.filter((doc) => doc.vfr)
+        || [];
+
+      for (let i = 0; i < docs.length; i++) {
+        const doc = docs[i];
+
+        await calibrate(chartsPath, doc);
       }
     }
   )
