@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveDateTime="2022-09-21T17:04:51" projectname="" saveUser="baylyj" saveUserFull="John Bayly" version="3.16.16-Hannover">
+<qgis saveDateTime="2022-09-21T18:01:39" saveUser="baylyj" saveUserFull="John Bayly" projectname="" version="3.16.16-Hannover">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -20,44 +20,44 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer providerKey="gdal" expanded="1" legend_exp="" legend_split_behavior="0" id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_aa3fe2cb_e3e7_4ac3_b21b_828d2d2cfc3c" name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" source="./EGNX/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="./EGSS/EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif" providerKey="gdal" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" id="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="gdal" expanded="1" legend_exp="" legend_split_behavior="0" id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_acf96146_13ab_44cb_a998_8ba668c81fbe" name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" source="./EGHI/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="./EGNX/EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" providerKey="gdal" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" id="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="gdal" expanded="1" legend_exp="" legend_split_behavior="0" id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_146dd297_a79d_40ce_8a51_7beffb79e0fc" name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" source="./EGFF/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="./EGHI/EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif" providerKey="gdal" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" id="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="gdal" expanded="1" legend_exp="" legend_split_behavior="0" id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_e8bf085d_a192_46e3_83e4_53ec4f1d6732" name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" source="./EGSS/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="./EGFF/EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif" providerKey="gdal" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" id="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="gdal" expanded="1" legend_exp="" legend_split_behavior="0" id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_9dfb42a4_7108_4bc5_8709_d3f342e4678a" name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" source="./EGCC/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="./EGCC/EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" providerKey="gdal" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" id="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="wms" expanded="1" legend_exp="" legend_split_behavior="0" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" name="OpenStreetMap" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" patch_size="-1,-1" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" patch_size="-1,-1" expanded="1" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" providerKey="wms" name="OpenStreetMap" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" legend_split_behavior="0" legend_exp="">
       <customproperties/>
     </layer-tree-layer>
     <custom-order enabled="0">
       <item>OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964</item>
-      <item>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_9dfb42a4_7108_4bc5_8709_d3f342e4678a</item>
-      <item>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_e8bf085d_a192_46e3_83e4_53ec4f1d6732</item>
-      <item>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_146dd297_a79d_40ce_8a51_7beffb79e0fc</item>
-      <item>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_acf96146_13ab_44cb_a998_8ba668c81fbe</item>
-      <item>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_aa3fe2cb_e3e7_4ac3_b21b_828d2d2cfc3c</item>
+      <item>EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f</item>
+      <item>EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3</item>
+      <item>EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd</item>
+      <item>EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4</item>
+      <item>EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings minScale="0" enabled="0" tolerance="12" scaleDependencyMode="0" self-snapping="0" intersection-snapping="0" type="1" mode="2" unit="1" maxScale="0">
+  <snapping-settings maxScale="0" mode="2" enabled="0" type="1" self-snapping="0" intersection-snapping="0" minScale="0" tolerance="12" unit="1" scaleDependencyMode="0">
     <individual-layer-settings/>
   </snapping-settings>
   <relations/>
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>meters</units>
     <extent>
-      <xmin>-47736.16697346394357737</xmin>
-      <ymin>6685624.50796712469309568</ymin>
-      <xmax>84092.27525833640538622</xmax>
-      <ymax>6876423.55620218347758055</ymax>
+      <xmin>-62300.36290861564339139</xmin>
+      <ymin>6718015.80116168688982725</ymin>
+      <xmax>107382.96216294445912354</xmax>
+      <ymax>6836529.20887830946594477</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -78,115 +78,52 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_aa3fe2cb_e3e7_4ac3_b21b_828d2d2cfc3c"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_acf96146_13ab_44cb_a998_8ba668c81fbe"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_146dd297_a79d_40ce_8a51_7beffb79e0fc"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_e8bf085d_a192_46e3_83e4_53ec4f1d6732"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_9dfb42a4_7108_4bc5_8709_d3f342e4678a"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="OpenStreetMap" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964"/>
+    <legendlayer checked="Qt::Checked" open="true" drawingOrder="-1" name="OpenStreetMap" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" isInOverview="0" visible="1"/>
       </filegroup>
     </legendlayer>
   </legend>
   <mapViewDocks/>
   <mapViewDocks3D/>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>meters</units>
+  <mapcanvas annotationsVisible="1" name="georefCanvas">
+    <units>unknown</units>
     <extent>
-      <xmin>-119237.97068806609604508</xmin>
-      <ymin>6605758.41700225044041872</ymin>
-      <xmax>408075.79823913553263992</xmax>
-      <ymax>7368954.60994270909577608</ymax>
+      <xmin>0</xmin>
+      <ymin>-3024</ymin>
+      <xmax>4547</xmax>
+      <ymax>0</ymax>
     </extent>
     <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
-        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
-        <srsid>3857</srsid>
-        <srid>3857</srid>
-        <authid>EPSG:3857</authid>
-        <description>WGS 84 / Pseudo-Mercator</description>
-        <projectionacronym>merc</projectionacronym>
-        <ellipsoidacronym>WGS84</ellipsoidacronym>
-        <geographicflag>false</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <expressionContextScope/>
   </mapcanvas>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>meters</units>
-    <extent>
-      <xmin>-119237.97068806609604508</xmin>
-      <ymin>6605758.41700225044041872</ymin>
-      <xmax>408075.79823913553263992</xmax>
-      <ymax>7368954.60994270909577608</ymax>
-    </extent>
-    <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
-        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
-        <srsid>3857</srsid>
-        <srid>3857</srid>
-        <authid>EPSG:3857</authid>
-        <description>WGS 84 / Pseudo-Mercator</description>
-        <projectionacronym>merc</projectionacronym>
-        <ellipsoidacronym>WGS84</ellipsoidacronym>
-        <geographicflag>false</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
-    <rendermaptile>0</rendermaptile>
-    <expressionContextScope/>
-  </mapcanvas>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>meters</units>
-    <extent>
-      <xmin>-119237.97068806609604508</xmin>
-      <ymin>6605758.41700225044041872</ymin>
-      <xmax>408075.79823913553263992</xmax>
-      <ymax>7368954.60994270909577608</ymax>
-    </extent>
-    <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
-        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
-        <srsid>3857</srsid>
-        <srid>3857</srid>
-        <authid>EPSG:3857</authid>
-        <description>WGS 84 / Pseudo-Mercator</description>
-        <projectionacronym>merc</projectionacronym>
-        <ellipsoidacronym>WGS84</ellipsoidacronym>
-        <geographicflag>false</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
-    <rendermaptile>0</rendermaptile>
-    <expressionContextScope/>
-  </mapcanvas>
-  <main-annotation-layer autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="annotation">
+  <main-annotation-layer refreshOnNotifyEnabled="0" autoRefreshTime="0" type="annotation" autoRefreshEnabled="0" refreshOnNotifyMessage="">
     <id>Annotations_55ba380b_7f72_4a76_89a6_087d57690f3f</id>
     <datasource></datasource>
     <keywordList>
@@ -235,136 +172,19 @@
     <layerOpacity>1</layerOpacity>
   </main-annotation-layer>
   <projectlayers>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
-      <extent>
-        <xmin>502402.44823506666580215</xmin>
-        <ymin>188452.63889235616079532</ymin>
-        <xmax>600403.08079327910672873</xmax>
-        <ymax>255176.92437008465640247</ymax>
-      </extent>
-      <id>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_e8bf085d_a192_46e3_83e4_53ec4f1d6732</id>
-      <datasource>./EGSS/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified</layername>
-      <srs>
-        <spatialrefsys>
-          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
-          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
-          <srsid>2437</srsid>
-          <srid>27700</srid>
-          <authid>EPSG:27700</authid>
-          <description>OSGB 1936 / British National Grid</description>
-          <projectionacronym>tmerc</projectionacronym>
-          <ellipsoidacronym>airy</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <resourceMetadata>
-        <identifier></identifier>
-        <parentidentifier></parentidentifier>
-        <language></language>
-        <type></type>
-        <title></title>
-        <abstract></abstract>
-        <contact>
-          <name></name>
-          <organization></organization>
-          <position></position>
-          <voice></voice>
-          <fax></fax>
-          <email></email>
-          <role></role>
-        </contact>
-        <links/>
-        <fees></fees>
-        <encoding></encoding>
-        <crs>
-          <spatialrefsys>
-            <wkt></wkt>
-            <proj4></proj4>
-            <srsid>0</srsid>
-            <srid>0</srid>
-            <authid></authid>
-            <description></description>
-            <projectionacronym></projectionacronym>
-            <ellipsoidacronym></ellipsoidacronym>
-            <geographicflag>false</geographicflag>
-          </spatialrefsys>
-        </crs>
-        <extent>
-          <spatial maxz="0" maxx="0" crs="" miny="0" dimensions="2" minz="0" maxy="0" minx="0"/>
-          <temporal>
-            <period>
-              <start></start>
-              <end></end>
-            </period>
-          </temporal>
-        </extent>
-      </resourceMetadata>
-      <provider>gdal</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-        <noDataList bandNo="2" useSrcNoData="0"/>
-        <noDataList bandNo="3" useSrcNoData="0"/>
-        <noDataList bandNo="4" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="default">
-        <map-layer-style name="default"/>
-      </map-layer-style-manager>
-      <flags>
-        <Identifiable>1</Identifiable>
-        <Removable>1</Removable>
-        <Searchable>0</Searchable>
-      </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
-        <fixedRange>
-          <start></start>
-          <end></end>
-        </fixedRange>
-      </temporal>
-      <customproperties>
-        <property value="false" key="WMSBackgroundLayer"/>
-        <property value="false" key="WMSPublishDataSourceUrl"/>
-        <property value="0" key="embeddedWidgets/count"/>
-        <property value="Value" key="identify/format"/>
-      </customproperties>
-      <pipe>
-        <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="cubic" maxOversampling="2" zoomedOutResamplingMethod="cubic"/>
-        </provider>
-        <rasterrenderer redBand="1" blueBand="3" nodataColor="" opacity="1" alphaBand="4" type="multibandcolor" greenBand="2">
-          <rasterTransparency/>
-          <minMaxOrigin>
-            <limits>MinMax</limits>
-            <extent>WholeRaster</extent>
-            <statAccuracy>Estimated</statAccuracy>
-            <cumulativeCutLower>0.02</cumulativeCutLower>
-            <cumulativeCutUpper>0.98</cumulativeCutUpper>
-            <stdDevFactor>2</stdDevFactor>
-          </minMaxOrigin>
-        </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
-        <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
-        <resamplingStage>resamplingFilter</resamplingStage>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>314658.11863204190740362</xmin>
         <ymin>354022.74960509594529867</ymin>
         <xmax>411458.40240692161023617</xmax>
         <ymax>418718.62948526605032384</ymax>
       </extent>
-      <id>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_9dfb42a4_7108_4bc5_8709_d3f342e4678a</id>
-      <datasource>./EGCC/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif</datasource>
+      <id>EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f</id>
+      <datasource>./EGCC/EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified</layername>
+      <layername>EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified</layername>
       <srs>
         <spatialrefsys>
           <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
@@ -411,7 +231,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxz="0" maxx="0" crs="" miny="0" dimensions="2" minz="0" maxy="0" minx="0"/>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" minz="0" maxy="0" maxx="0" minx="0"/>
           <temporal>
             <period>
               <start></start>
@@ -433,142 +253,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>0</Searchable>
+        <Searchable>1</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="false" key="WMSBackgroundLayer"/>
-        <property value="false" key="WMSPublishDataSourceUrl"/>
-        <property value="0" key="embeddedWidgets/count"/>
-        <property value="Value" key="identify/format"/>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="cubic" maxOversampling="2" zoomedOutResamplingMethod="cubic"/>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic"/>
         </provider>
-        <rasterrenderer redBand="1" blueBand="3" nodataColor="" opacity="1" alphaBand="4" type="multibandcolor" greenBand="2">
-          <rasterTransparency/>
-          <minMaxOrigin>
-            <limits>None</limits>
-            <extent>WholeRaster</extent>
-            <statAccuracy>Estimated</statAccuracy>
-            <cumulativeCutLower>0.02</cumulativeCutLower>
-            <cumulativeCutUpper>0.98</cumulativeCutUpper>
-            <stdDevFactor>2</stdDevFactor>
-          </minMaxOrigin>
-        </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
-        <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
-        <resamplingStage>resamplingFilter</resamplingStage>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
-      <extent>
-        <xmin>409649.11428701505064964</xmin>
-        <ymin>268495.48486446990864351</ymin>
-        <xmax>484623.66881364554865286</xmax>
-        <ymax>377558.40402365842601284</ymax>
-      </extent>
-      <id>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_aa3fe2cb_e3e7_4ac3_b21b_828d2d2cfc3c</id>
-      <datasource>./EGNX/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified</layername>
-      <srs>
-        <spatialrefsys>
-          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
-          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
-          <srsid>2437</srsid>
-          <srid>27700</srid>
-          <authid>EPSG:27700</authid>
-          <description>OSGB 1936 / British National Grid</description>
-          <projectionacronym>tmerc</projectionacronym>
-          <ellipsoidacronym>airy</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <resourceMetadata>
-        <identifier></identifier>
-        <parentidentifier></parentidentifier>
-        <language></language>
-        <type></type>
-        <title></title>
-        <abstract></abstract>
-        <contact>
-          <name></name>
-          <organization></organization>
-          <position></position>
-          <voice></voice>
-          <fax></fax>
-          <email></email>
-          <role></role>
-        </contact>
-        <links/>
-        <fees></fees>
-        <encoding></encoding>
-        <crs>
-          <spatialrefsys>
-            <wkt></wkt>
-            <proj4></proj4>
-            <srsid>0</srsid>
-            <srid>0</srid>
-            <authid></authid>
-            <description></description>
-            <projectionacronym></projectionacronym>
-            <ellipsoidacronym></ellipsoidacronym>
-            <geographicflag>false</geographicflag>
-          </spatialrefsys>
-        </crs>
-        <extent>
-          <spatial maxz="0" maxx="0" crs="" miny="0" dimensions="2" minz="0" maxy="0" minx="0"/>
-          <temporal>
-            <period>
-              <start></start>
-              <end></end>
-            </period>
-          </temporal>
-        </extent>
-      </resourceMetadata>
-      <provider>gdal</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-        <noDataList bandNo="2" useSrcNoData="0"/>
-        <noDataList bandNo="3" useSrcNoData="0"/>
-        <noDataList bandNo="4" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="default">
-        <map-layer-style name="default"/>
-      </map-layer-style-manager>
-      <flags>
-        <Identifiable>1</Identifiable>
-        <Removable>1</Removable>
-        <Searchable>0</Searchable>
-      </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
-        <fixedRange>
-          <start></start>
-          <end></end>
-        </fixedRange>
-      </temporal>
-      <customproperties>
-        <property value="false" key="WMSBackgroundLayer"/>
-        <property value="false" key="WMSPublishDataSourceUrl"/>
-        <property value="0" key="embeddedWidgets/count"/>
-        <property value="Value" key="identify/format"/>
-      </customproperties>
-      <pipe>
-        <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="cubic" maxOversampling="2" zoomedOutResamplingMethod="cubic"/>
-        </provider>
-        <rasterrenderer redBand="1" blueBand="3" nodataColor="" opacity="1" alphaBand="4" type="multibandcolor" greenBand="2">
+        <rasterrenderer nodataColor="" opacity="1" redBand="1" type="multibandcolor" alphaBand="4" blueBand="3" greenBand="2">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -579,26 +282,26 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
         <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>281954.03654583269963041</xmin>
         <ymin>103662.27550437545869499</ymin>
         <xmax>353401.56304588087368757</xmax>
         <ymax>206608.93417243106523529</ymax>
       </extent>
-      <id>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_146dd297_a79d_40ce_8a51_7beffb79e0fc</id>
-      <datasource>./EGFF/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif</datasource>
+      <id>EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3</id>
+      <datasource>./EGFF/EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified</layername>
+      <layername>EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified</layername>
       <srs>
         <spatialrefsys>
           <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
@@ -645,7 +348,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxz="0" maxx="0" crs="" miny="0" dimensions="2" minz="0" maxy="0" minx="0"/>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" minz="0" maxy="0" maxx="0" minx="0"/>
           <temporal>
             <period>
               <start></start>
@@ -666,25 +369,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>0</Searchable>
+        <Searchable>1</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="false" key="WMSBackgroundLayer"/>
-        <property value="false" key="WMSPublishDataSourceUrl"/>
-        <property value="0" key="embeddedWidgets/count"/>
-        <property value="Value" key="identify/format"/>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="cubic" maxOversampling="2" zoomedOutResamplingMethod="cubic"/>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic"/>
         </provider>
-        <rasterrenderer redBand="1" blueBand="3" nodataColor="" opacity="1" alphaBand="-1" type="multibandcolor" greenBand="2">
+        <rasterrenderer nodataColor="" opacity="1" redBand="1" type="multibandcolor" alphaBand="-1" blueBand="3" greenBand="2">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -710,26 +413,26 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
         <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>414968.74833182559814304</xmin>
         <ymin>61634.72403065495018382</ymin>
         <xmax>485680.7834293843479827</xmax>
         <ymax>164568.67833174910629168</ymax>
       </extent>
-      <id>AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_acf96146_13ab_44cb_a998_8ba668c81fbe</id>
-      <datasource>./EGHI/AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif</datasource>
+      <id>EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd</id>
+      <datasource>./EGHI/EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified</layername>
+      <layername>EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified</layername>
       <srs>
         <spatialrefsys>
           <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
@@ -776,7 +479,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxz="0" maxx="0" crs="" miny="0" dimensions="2" minz="0" maxy="0" minx="0"/>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" minz="0" maxy="0" maxx="0" minx="0"/>
           <temporal>
             <period>
               <start></start>
@@ -798,25 +501,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>0</Searchable>
+        <Searchable>1</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="false" key="WMSBackgroundLayer"/>
-        <property value="false" key="WMSPublishDataSourceUrl"/>
-        <property value="0" key="embeddedWidgets/count"/>
-        <property value="Value" key="identify/format"/>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="cubic" maxOversampling="2" zoomedOutResamplingMethod="cubic"/>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic"/>
         </provider>
-        <rasterrenderer redBand="1" blueBand="3" nodataColor="" opacity="1" alphaBand="4" type="multibandcolor" greenBand="2">
+        <rasterrenderer nodataColor="" opacity="1" redBand="1" type="multibandcolor" alphaBand="4" blueBand="3" greenBand="2">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -827,14 +530,248 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
         <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" autoRefreshEnabled="0" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" type="raster" maxScale="0">
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>409649.11428701505064964</xmin>
+        <ymin>268495.48486446990864351</ymin>
+        <xmax>484623.66881364554865286</xmax>
+        <ymax>377558.40402365842601284</ymax>
+      </extent>
+      <id>EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4</id>
+      <datasource>./EGNX/EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
+          <srsid>2437</srsid>
+          <srid>27700</srid>
+          <authid>EPSG:27700</authid>
+          <description>OSGB 1936 / British National Grid</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>airy</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" minz="0" maxy="0" maxx="0" minx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal fetchMode="0" mode="0" enabled="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic"/>
+        </provider>
+        <rasterrenderer nodataColor="" opacity="1" redBand="1" type="multibandcolor" alphaBand="4" blueBand="3" greenBand="2">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>502402.44823506666580215</xmin>
+        <ymin>188452.63889235616079532</ymin>
+        <xmax>600403.08079327910672873</xmax>
+        <ymax>255176.92437008465640247</ymax>
+      </extent>
+      <id>EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef</id>
+      <datasource>./EGSS/EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
+          <srsid>2437</srsid>
+          <srid>27700</srid>
+          <authid>EPSG:27700</authid>
+          <description>OSGB 1936 / British National Grid</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>airy</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" minz="0" maxy="0" maxx="0" minx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal fetchMode="0" mode="0" enabled="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic"/>
+        </provider>
+        <rasterrenderer nodataColor="" opacity="1" redBand="1" type="multibandcolor" alphaBand="4" blueBand="3" greenBand="2">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedOutResampler="cubic" zoomedInResampler="cubic"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" maxScale="0" autoRefreshTime="0" type="raster" autoRefreshEnabled="0" refreshOnNotifyMessage="" minScale="1e+8" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -868,7 +805,7 @@
         <title>OpenStreetMap tiles</title>
         <abstract>OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.</abstract>
         <links>
-          <link mimeType="" name="Source" size="" description="" format="" type="WWW:LINK" url="https://www.openstreetmap.org/"/>
+          <link mimeType="" url="https://www.openstreetmap.org/" format="" type="WWW:LINK" name="Source" size="" description=""/>
         </links>
         <fees></fees>
         <rights>Base map and data from OpenStreetMap and OpenStreetMap Foundation (CC-BY-SA). © https://www.openstreetmap.org and contributors.</rights>
@@ -889,7 +826,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxz="0" maxx="180" crs="EPSG:4326" miny="-85.05112877980660357" dimensions="2" minz="0" maxy="85.05112877980660357" minx="-180"/>
+          <spatial dimensions="2" maxz="0" crs="EPSG:4326" miny="-85.05112877980660357" minz="0" maxy="85.05112877980660357" maxx="180" minx="-180"/>
         </extent>
       </resourceMetadata>
       <provider>wms</provider>
@@ -904,20 +841,20 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="Undefined" key="identify/format"/>
+        <property key="identify/format" value="Undefined"/>
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" maxOversampling="2" zoomedOutResamplingMethod="nearestNeighbour"/>
+          <resampling maxOversampling="2" zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour"/>
         </provider>
-        <rasterrenderer band="1" nodataColor="" opacity="1" alphaBand="-1" type="singlebandcolordata">
+        <rasterrenderer nodataColor="" opacity="1" type="singlebandcolordata" band="1" alphaBand="-1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -928,8 +865,8 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
-        <huesaturation colorizeOn="0" colorizeGreen="128" saturation="0" colorizeBlue="128" grayscaleMode="0" colorizeStrength="100" colorizeRed="255"/>
+        <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" colorizeGreen="128" colorizeOn="0" saturation="0" colorizeStrength="100"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
@@ -938,11 +875,11 @@
   </projectlayers>
   <layerorder>
     <layer id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964"/>
-    <layer id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_9dfb42a4_7108_4bc5_8709_d3f342e4678a"/>
-    <layer id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_e8bf085d_a192_46e3_83e4_53ec4f1d6732"/>
-    <layer id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_146dd297_a79d_40ce_8a51_7beffb79e0fc"/>
-    <layer id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_acf96146_13ab_44cb_a998_8ba668c81fbe"/>
-    <layer id="AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_aa3fe2cb_e3e7_4ac3_b21b_828d2d2cfc3c"/>
+    <layer id="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f"/>
+    <layer id="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3"/>
+    <layer id="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd"/>
+    <layer id="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4"/>
+    <layer id="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef"/>
   </layerorder>
   <properties>
     <DefaultStyles>
@@ -1059,16 +996,16 @@
   </properties>
   <dataDefinedServerProperties>
     <Option type="Map">
-      <Option value="" name="name" type="QString"/>
+      <Option value="" type="QString" name="name"/>
       <Option name="properties"/>
-      <Option value="collection" name="type" type="QString"/>
+      <Option value="collection" type="QString" name="type"/>
     </Option>
   </dataDefinedServerProperties>
   <visibility-presets/>
   <transformContext>
-    <srcDest dest="EPSG:3857" source="EPSG:27700" destTransform="" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489"/>
-    <srcDest dest="EPSG:4326" source="EPSG:27700" destTransform="" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489"/>
-    <srcDest dest="EPSG:7405" source="EPSG:3857" destTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" sourceTransform=""/>
+    <srcDest source="EPSG:27700" dest="EPSG:3857" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" destTransform=""/>
+    <srcDest source="EPSG:27700" dest="EPSG:4326" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" destTransform=""/>
+    <srcDest source="EPSG:3857" dest="EPSG:7405" sourceTransform="" destTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489"/>
   </transformContext>
   <projectMetadata>
     <identifier></identifier>
@@ -1095,7 +1032,7 @@
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymin="6685624.50796712469309568" ymax="6876423.55620218347758055" xmin="-130559.50178075676376466" xmax="166915.61006562924012542">
+    <DefaultViewExtent xmin="-74430.89936677180230618" ymin="6718015.80116168688982725" ymax="6836529.20887830946594477" xmax="119513.49862110061803833">
       <spatialrefsys>
         <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
         <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
@@ -1109,18 +1046,18 @@
       </spatialrefsys>
     </DefaultViewExtent>
   </ProjectViewSettings>
-  <ProjectTimeSettings cumulativeTemporalRange="0" timeStep="1" timeStepUnit="h" frameRate="1"/>
+  <ProjectTimeSettings timeStep="1" frameRate="1" cumulativeTemporalRange="0" timeStepUnit="h"/>
   <ProjectDisplaySettings>
     <BearingFormat id="bearing">
       <Option type="Map">
-        <Option value="" name="decimal_separator" type="QChar"/>
-        <Option value="6" name="decimals" type="int"/>
-        <Option value="0" name="direction_format" type="int"/>
-        <Option value="0" name="rounding_type" type="int"/>
-        <Option value="false" name="show_plus" type="bool"/>
-        <Option value="true" name="show_thousand_separator" type="bool"/>
-        <Option value="false" name="show_trailing_zeros" type="bool"/>
-        <Option value="" name="thousand_separator" type="QChar"/>
+        <Option value="" type="QChar" name="decimal_separator"/>
+        <Option value="6" type="int" name="decimals"/>
+        <Option value="0" type="int" name="direction_format"/>
+        <Option value="0" type="int" name="rounding_type"/>
+        <Option value="false" type="bool" name="show_plus"/>
+        <Option value="true" type="bool" name="show_thousand_separator"/>
+        <Option value="false" type="bool" name="show_trailing_zeros"/>
+        <Option value="" type="QChar" name="thousand_separator"/>
       </Option>
     </BearingFormat>
   </ProjectDisplaySettings>
