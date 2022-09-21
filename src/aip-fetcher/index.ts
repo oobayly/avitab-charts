@@ -86,7 +86,13 @@ export async function getAirports(regions?: Region[]): Promise<Airport[]> {
   const vfr = /(2-4-[0-9]|vfr|vrp|visual approach)/i;
   results.forEach((apt) => {
     apt.documents?.forEach((doc) => {
-      if (vfr.test(doc.fileName)) {
+      const { icao, fileName } = doc;
+
+      if (fileName.substring(0, 4) !== icao) {
+        doc.fileName = `${icao} ${fileName}`;
+      }
+
+      if (vfr.test(fileName)) {
         doc.vfr = true;
       }
     });
