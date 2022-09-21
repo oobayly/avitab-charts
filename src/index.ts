@@ -1,11 +1,11 @@
 import { execSync } from "child_process";
 import { copyFileSync, existsSync, fstat, mkdirSync, readFile, readFileSync, writeFileSync } from "fs";
 import path = require("path");
+import proj4 = require("proj4");
 import yargs = require("yargs");
 import { hideBin } from "yargs/helpers"
 import { downloadDocuments, getAirports } from "./aip-fetcher";
 import { Airport, Document, Region } from "./aip-fetcher/fetcher";
-import { fromEpsg3857 } from "./projection";
 
 const loadChartsConfig = (chartsPath: string): Airport[] => {
   return JSON.parse(readFileSync(
@@ -89,19 +89,23 @@ const argv = yargs(hideBin(process.argv))
   .command(
     "epsg3857", "Transform coordinates between EPSG:4326 and EPSG:3857",
     {
-      from: { alias: "f", type: "string" },
-      to: { alias: "t", type: "string" },
+      from: { alias: "f", type: "string", description: "Comma-separated x,y coordinates" },
+      to: { alias: "t", type: "string", description: "Comma-separated WGS84 lat,lng coordinates" },
     },
     (args) => {
+      const proj = proj4("EPSG:3857");
+
       if (args.from) {
-        const [x, y] = args.from.split(",").map((item) => parseFloat(item));
-        const resp = fromEpsg3857(x, y);
+        const xy = args.from.split(",").map((item) => parseFloat(item));
+        const [lng, lat] = proj.inverse(xy);
 
-        console.log(resp);
+        console.log(`${lat},${lng}`);
       } else if (args.to) {
+        const [lat, lng] = args.to.split(",").map((item) => parseFloat(item));
+        const [x, y] = proj.forward([lng, lat]);
 
+        console.log(`${x},${y}`);
       }
-
     }
   )
   .options({
