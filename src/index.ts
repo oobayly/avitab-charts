@@ -49,10 +49,12 @@ const argv = yargs(hideBin(process.argv))
     {
       icao: { alias: "i", type: "string", description: "A comma-separated list of ICAO codes", default: undefined },
       extract: { alias: "e", type: "boolean", description: "A flag indicating whether VFR charts should be extracted from AIP", default: false },
-      calibrate: { alias: "c", type: "boolean", description: "A flag indicating whether VFR charts should calibrated", default: false }
+      calibrate: { alias: "c", type: "boolean", description: "A flag indicating whether VFR charts should calibrated", default: false },
+      output: { alias: "o", type: "string", description: "", default: "Output" }
     },
     async (args) => {
       const chartsPath = args.path as string;
+      const outputPath = args.output as string;
       const icao = args.icao ? (args.icao as string).split(",") : undefined;
       let airports = loadChartsConfig(chartsPath);
 
@@ -65,7 +67,7 @@ const argv = yargs(hideBin(process.argv))
       }
 
       if (args.calibrate) {
-        calibrate(chartsPath, airports);
+        calibrate(chartsPath, airports, outputPath);
       }
     }
   )

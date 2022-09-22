@@ -94,11 +94,13 @@ const readWorldFile = (pgwPath: string): WorldFile | undefined => {
   };
 }
 
-export const calibrate = (chartsPath: string, airports: Airport[]): void => {
+export const calibrate = (chartsPath: string, airports: Airport[], outputPath: string): void => {
   const vfr = getVfrDocs(airports);
 
   vfr.forEach((doc) => {
+    const { icao } = doc;
     const folder = getFolder(chartsPath, doc);
+    const outputFolder = path.join(outputPath, "VFR", icao);
     const pdfPath = path.join(folder, doc.fileName);
     const baseName = pdfPath.replace(/\.pdf$/, "");
     const configPath = `${pdfPath}.json`;
@@ -107,12 +109,19 @@ export const calibrate = (chartsPath: string, airports: Airport[]): void => {
 
     const calibration = getCalibrationFromPgw(pngPath, pgwPath);
 
+    mkdirSync(outputFolder, { recursive: true });
+
     if (calibration) {
+      copyFileSync(pngPath, path.join(outputFolder, path.basename(pngPath)));
+
       writeFileSync(
-        `${pngPath}.json`,
+        path.join(outputFolder, path.basename(`${pngPath}.json`)),
         JSON.stringify({ calibration }, null, 2),
         "utf-8",
       );
+    } else {
+      copyFileSync(pdfPath, path.join(outputFolder, path.basename(pdfPath)));
+      copyFileSync(configPath, path.join(outputFolder, path.basename(configPath)));
     }
   });
 }
