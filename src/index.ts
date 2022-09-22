@@ -1,12 +1,11 @@
-import { execSync } from "child_process";
-import { copyFileSync, existsSync, fstat, mkdirSync, readFile, readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 import path = require("path");
 import proj4 = require("proj4");
 import yargs = require("yargs");
 import { hideBin } from "yargs/helpers"
 import { downloadDocuments, getAirports } from "./aip-fetcher";
-import { Airport, Document, Region } from "./aip-fetcher/fetcher";
-import { calibrate } from "./calibrator";
+import { Airport, Region } from "./aip-fetcher/fetcher";
+import { calibrate, extract } from "./vfr";
 
 const loadChartsConfig = (chartsPath: string): Airport[] => {
   return JSON.parse(readFileSync(
@@ -48,43 +47,26 @@ const argv = yargs(hideBin(process.argv))
   .command(
     "vfr", "",
     {
-      icao: { alias: "i", type: "string", description: "This ICAO code for the airport to convert", default: undefined },
+      icao: { alias: "i", type: "string", description: "A comma-separated list of ICAO codes", default: undefined },
+      extract: { alias: "e", type: "boolean", description: "A flag indicating whether VFR charts should be extracted from AIP", default: false },
+      calibrate: { alias: "c", type: "boolean", description: "A flag indicating whether VFR charts should calibrated", default: false }
     },
     async (args) => {
       const chartsPath = args.path as string;
-      const airports = loadChartsConfig(chartsPath);
-      const icao = args.icao;
+      const icao = args.icao ? (args.icao as string).split(",") : undefined;
+      let airports = loadChartsConfig(chartsPath);
 
-      const vfr = airports
-        .reduce((list, apt) => {
-          if (!icao || apt.icao === icao) {
-            if (apt.documents?.length) {
-              list.push(...apt.documents.filter((d) => d.vfr));
-            }
-          }
+      if (icao?.length) {
+        airports = airports.filter((apt) => icao.includes(apt.icao));
+      }
 
-          return list;
-        }, [] as Document[]);
+      if (args.extract) {
+        extract(chartsPath, airports);
+      }
 
-      vfr.forEach((doc) => {
-        const srcFile = path.join(chartsPath, "AIP", doc.icao, doc.fileName);
-        const trgFolder = path.join(chartsPath, "VFR", doc.icao);
-        const trgFile = path.join(trgFolder, doc.fileName);
-        const trgFileConfig = `${trgFile}.json`;
-        const trgFilePng = `${trgFile}.png`;
-        let config: { rotate: number } = { rotate: 0 };
-
-        mkdirSync(trgFolder, { recursive: true });
-        copyFileSync(srcFile, trgFile);
-
-        if (existsSync(trgFileConfig)) {
-          config = JSON.parse(readFileSync(trgFileConfig, "utf-8"));
-        } else {
-          writeFileSync(trgFileConfig, JSON.stringify(config), "utf-8");
-        }
-
-        execSync(`convert -density 300 -rotate ${config.rotate} "${trgFile}" "${trgFilePng}"`);
-      });
+      if (args.calibrate) {
+        calibrate(chartsPath, airports);
+      }
     }
   )
   .command(
@@ -106,26 +88,6 @@ const argv = yargs(hideBin(process.argv))
         const [x, y] = proj.forward([lng, lat]);
 
         console.log(`${x},${y}`);
-      }
-    }
-  )
-  .command(
-    "calibrate", "",
-    {
-      icao: { alias: "i" },
-    },
-    async (args) => {
-      const chartsPath = args.path as string;
-      const airports = loadChartsConfig(chartsPath);
-      const docs = airports
-        .find((apt) => apt.icao === args.icao)
-        ?.documents?.filter((doc) => doc.vfr)
-        || [];
-
-      for (let i = 0; i < docs.length; i++) {
-        const doc = docs[i];
-
-        await calibrate(chartsPath, doc);
       }
     }
   )
