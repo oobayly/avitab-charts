@@ -146,6 +146,6 @@ export const extract = (chartsPath: string, airports: Airport[]): void => {
       writeFileSync(trgFileConfig, JSON.stringify(config), "utf-8");
     }
 
-    execSync(`convert -density 300 -rotate ${config.rotate} "${trgFile}" "${trgFilePng}"`);
+    execSync(`convert -density 300 -rotate ${config.rotate} "${trgFile}"[0] "${trgFilePng}"`);
   });
 }
