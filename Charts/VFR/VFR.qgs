@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.16.16-Hannover" saveUser="baylyj" projectname="" saveUserFull="John Bayly" saveDateTime="2022-09-22T15:06:01">
+<qgis version="3.16.16-Hannover" saveUser="baylyj" projectname="" saveUserFull="John Bayly" saveDateTime="2022-09-22T15:30:24">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -50,7 +50,16 @@
     <layer-tree-layer legend_exp="" source="./EGSS/EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" checked="Qt::Checked" expanded="1" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" providerKey="gdal">
       <customproperties/>
     </layer-tree-layer>
+    <layer-tree-layer legend_exp="" source="./EICK/EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97" checked="Qt::Checked" expanded="1" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer legend_exp="" source="./EIDL/EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd" checked="Qt::Checked" expanded="1" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+      <customproperties/>
+    </layer-tree-layer>
     <layer-tree-layer legend_exp="" source="./EIDW/EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2" checked="Qt::Checked" expanded="1" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified" providerKey="gdal">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer legend_exp="" source="./EIKN/EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429" checked="Qt::Checked" expanded="1" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer legend_exp="" source="./EIKY/EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a" checked="Qt::Checked" expanded="1" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
@@ -59,7 +68,7 @@
     <layer-tree-layer legend_exp="" source="./EINN/EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425" checked="Qt::Checked" expanded="1" name="EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EISG/EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" checked="Qt::Checked" expanded="1" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer legend_exp="" source="./EISG/EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" checked="Qt::Unchecked" expanded="1" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer legend_exp="" source="./EIWF/EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIWF_AD_2_24_7_Visual_Approach_Chart___ICAO_pdf_modified_ced6926a_5b39_4a69_a0ff_556459bf094b" checked="Qt::Checked" expanded="1" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
@@ -68,7 +77,7 @@
     <layer-tree-layer legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://a.tile.opentopomap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=18&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292" checked="Qt::Unchecked" expanded="1" name="OpenTopoMap" providerKey="wms">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" checked="Qt::Checked" expanded="1" name="OpenStreetMap" providerKey="wms">
+    <layer-tree-layer legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" checked="Qt::Unchecked" expanded="1" name="OpenStreetMap" providerKey="wms">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer legend_exp="" source="type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=22&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e" checked="Qt::Unchecked" expanded="1" name="Google Maps - Terrain" providerKey="wms">
@@ -93,6 +102,9 @@
       <item>EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc</item>
       <item>Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e</item>
       <item>EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a</item>
+      <item>EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429</item>
+      <item>EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd</item>
+      <item>EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97</item>
     </custom-order>
   </layer-tree-group>
   <snapping-settings intersection-snapping="0" minScale="0" type="1" maxScale="0" enabled="0" mode="2" unit="1" tolerance="12" scaleDependencyMode="0" self-snapping="0">
@@ -102,10 +114,10 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>meters</units>
     <extent>
-      <xmin>-1096017.87362389755435288</xmin>
-      <ymin>6591408.6288863830268383</ymin>
-      <xmax>-716428.87253110553137958</xmax>
-      <ymax>7129478.71756617352366447</ymax>
+      <xmin>-1000511.45579596143215895</xmin>
+      <ymin>6709706.16976911202073097</ymin>
+      <xmax>-921430.41390162985771894</xmax>
+      <ymax>6821804.10491085425019264</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -176,9 +188,24 @@
         <legendlayerfile isInOverview="0" layerid="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" visible="1"/>
       </filegroup>
     </legendlayer>
+    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" layerid="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" layerid="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd" visible="1"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" layerid="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified">
@@ -191,9 +218,9 @@
         <legendlayerfile isInOverview="0" layerid="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified">
@@ -206,9 +233,9 @@
         <legendlayerfile isInOverview="0" layerid="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="OpenStreetMap">
+    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="OpenStreetMap">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="Google Maps - Terrain">
@@ -222,10 +249,10 @@
   <mapcanvas annotationsVisible="1" name="georefCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>2524.29993342210218543</xmin>
-      <ymin>-4919.05380326231625077</ymin>
-      <xmax>6245.79993342210218543</xmax>
-      <ymax>344.44619673768374923</ymax>
+      <xmin>547.8576169274303993</xmin>
+      <ymin>-662.73641394806986682</ymin>
+      <xmax>896.7482419274303993</xmax>
+      <ymax>-169.70516394806992366</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
@@ -1466,6 +1493,254 @@
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
       <extent>
+        <xmin>-990718.7053211786551401</xmin>
+        <ymin>6708668.79241002164781094</ymin>
+        <xmax>-904837.07804147468414158</xmax>
+        <ymax>6829459.13869190774857998</ymax>
+      </extent>
+      <id>EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97</id>
+      <datasource>./EICK/EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]</wkt>
+          <proj4>+proj=merc +lon_0=0 +lat_ts=0 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" mode="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+      <extent>
+        <xmin>-977009.62101501738652587</xmin>
+        <ymin>7300514.67125301714986563</ymin>
+        <xmax>-885212.37735028541646898</xmax>
+        <ymax>7430483.93066423293203115</ymax>
+      </extent>
+      <id>EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd</id>
+      <datasource>./EIDL/EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]</wkt>
+          <proj4>+proj=merc +lon_0=0 +lat_ts=0 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" mode="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+      <extent>
         <xmin>-777164.98321646032854915</xmin>
         <ymin>7014249.13804788142442703</ymin>
         <xmax>-662964.73197865788824856</xmax>
@@ -1545,6 +1820,137 @@
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
         <Searchable>0</Searchable>
+      </flags>
+      <temporal enabled="0" mode="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="WMSBackgroundLayer" value="false"/>
+        <property key="WMSPublishDataSourceUrl" value="false"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>65535</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+      <extent>
+        <xmin>-1028068.19675660494249314</xmin>
+        <ymin>7084223.23180478624999523</ymin>
+        <xmax>-937677.4816059002187103</xmax>
+        <ymax>7211358.72357888147234917</ymax>
+      </extent>
+      <id>EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429</id>
+      <datasource>./EIKN/EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]</wkt>
+          <proj4>+proj=merc +lon_0=0 +lat_ts=0 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
       </flags>
       <temporal enabled="0" mode="0" fetchMode="0">
         <fixedRange>
@@ -2414,6 +2820,9 @@
     <layer id="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc"/>
     <layer id="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e"/>
     <layer id="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a"/>
+    <layer id="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429"/>
+    <layer id="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd"/>
+    <layer id="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97"/>
   </layerorder>
   <properties>
     <DefaultStyles>
@@ -2569,7 +2978,7 @@
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymax="7129478.71756617352366447" ymin="6591408.6288863830268383" xmax="-465953.8650324372574687" xmin="-1346492.88112256582826376">
+    <DefaultViewExtent ymax="6821804.10491085425019264" ymin="6709706.16976911202073097" xmax="-869248.12067264306824654" xmin="-1052693.74902494833804667">
       <spatialrefsys>
         <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
         <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
