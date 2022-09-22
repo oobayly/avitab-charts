@@ -44,8 +44,3 @@ yarn.lock
 # QGIS backup file
 *.qgs~
 
-# Charts
-charts/**/*.pdf
-charts/**/*.pdf.etag
-charts/**/*.png
-charts/**/*.tif
