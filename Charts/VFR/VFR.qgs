@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.16.16-Hannover" saveUser="baylyj" projectname="" saveUserFull="John Bayly" saveDateTime="2022-09-22T15:30:24">
+<qgis saveUser="baylyj" projectname="" saveDateTime="2022-09-22T17:17:33" saveUserFull="John Bayly" version="3.16.16-Hannover">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -20,67 +20,76 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer legend_exp="" source="./BIKF/BIKF VFR Routes.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="BIKF_VFR_Routes_pdf_modified_87c41719_a30a_4bd3_9032_c1e25045f4aa" checked="Qt::Checked" expanded="1" name="BIKF VFR Routes.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="BIKF VFR Routes.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="BIKF_VFR_Routes_pdf_modified_87c41719_a30a_4bd3_9032_c1e25045f4aa" source="./BIKF/BIKF VFR Routes.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./BIRK/BIRK VFR Routes.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="BIRK_VFR_Routes_pdf_modified_da6bd924_300f_4d91_be6e_c05f9c5a11e7" checked="Qt::Checked" expanded="1" name="BIRK VFR Routes.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="BIRK VFR Routes.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="BIRK_VFR_Routes_pdf_modified_da6bd924_300f_4d91_be6e_c05f9c5a11e7" source="./BIRK/BIRK VFR Routes.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGCC/EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f" checked="Qt::Checked" expanded="1" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGBB AD 2-4-3 CONTROL ZONE and CONTROL AREA CHART - VRPS.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGBB_AD_2_4_3_CONTROL_ZONE_and_CONTROL_AREA_CHART___VRPS_pdf_modified_94c4d759_32d2_4a42_8cab_756ee3c82191" source="./EGBB/EGBB AD 2-4-3 CONTROL ZONE and CONTROL AREA CHART - VRPS.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGFF/EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3" checked="Qt::Checked" expanded="1" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f" source="./EGCC/EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGGP/EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGGP_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_67fb0098_ef05_4d5b_b733_e05634cc6b58" checked="Qt::Checked" expanded="1" name="EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGCN AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGCN_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_32dff3bf_7f87_485d_a110_ad069f944405" source="./EGCN/EGCN AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGGW/EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGGW_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1b710562_a2ec_4fb3_90c8_0ac1a1096c7f" checked="Qt::Checked" expanded="1" name="EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Unchecked" id="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3" source="./EGFF/EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGHI/EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd" checked="Qt::Checked" expanded="1" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGGD AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGGD_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1a49b75b_45bf_46ba_b49e_c7a871a5508f" source="./EGGD/EGGD AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGNX/EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4" checked="Qt::Checked" expanded="1" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGGP_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_67fb0098_ef05_4d5b_b733_e05634cc6b58" source="./EGGP/EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGPH/EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGPH_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_7dce88eb_233d_4e58_84df_8a6965b9bbed" checked="Qt::Checked" expanded="1" name="EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGGW_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1b710562_a2ec_4fb3_90c8_0ac1a1096c7f" source="./EGGW/EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EGSS/EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" checked="Qt::Checked" expanded="1" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd" source="./EGHI/EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EICK/EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97" checked="Qt::Checked" expanded="1" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4" source="./EGNX/EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EIDL/EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd" checked="Qt::Checked" expanded="1" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGPH_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_7dce88eb_233d_4e58_84df_8a6965b9bbed" source="./EGPH/EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EIDW/EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2" checked="Qt::Checked" expanded="1" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" source="./EGSS/EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EIKN/EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429" checked="Qt::Checked" expanded="1" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97" source="./EICK/EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EIKY/EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a" checked="Qt::Checked" expanded="1" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd" source="./EIDL/EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EINN/EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425" checked="Qt::Checked" expanded="1" name="EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2" source="./EIDW/EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EISG/EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" checked="Qt::Unchecked" expanded="1" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429" source="./EIKN/EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="./EIWF/EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified.tif" patch_size="-1,-1" legend_split_behavior="0" id="EIWF_AD_2_24_7_Visual_Approach_Chart___ICAO_pdf_modified_ced6926a_5b39_4a69_a0ff_556459bf094b" checked="Qt::Checked" expanded="1" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified" providerKey="gdal">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a" source="./EIKY/EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://a.tile.opentopomap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=18&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292" checked="Qt::Unchecked" expanded="1" name="OpenTopoMap" providerKey="wms">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425" source="./EINN/EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" checked="Qt::Unchecked" expanded="1" name="OpenStreetMap" providerKey="wms">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" source="./EISG/EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified.tif">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer legend_exp="" source="type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=22&amp;zmin=0" patch_size="-1,-1" legend_split_behavior="0" id="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e" checked="Qt::Unchecked" expanded="1" name="Google Maps - Terrain" providerKey="wms">
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified" legend_exp="" legend_split_behavior="0" providerKey="gdal" checked="Qt::Checked" id="EIWF_AD_2_24_7_Visual_Approach_Chart___ICAO_pdf_modified_ced6926a_5b39_4a69_a0ff_556459bf094b" source="./EIWF/EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="OpenTopoMap" legend_exp="" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" id="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://a.tile.opentopomap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=18&amp;zmin=0">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="OpenStreetMap" legend_exp="" legend_split_behavior="0" providerKey="wms" checked="Qt::Checked" id="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" patch_size="-1,-1" name="Google Maps - Terrain" legend_exp="" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" id="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=22&amp;zmin=0">
       <customproperties/>
     </layer-tree-layer>
     <custom-order enabled="0">
@@ -105,19 +114,22 @@
       <item>EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429</item>
       <item>EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd</item>
       <item>EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97</item>
+      <item>EGBB_AD_2_4_3_CONTROL_ZONE_and_CONTROL_AREA_CHART___VRPS_pdf_modified_94c4d759_32d2_4a42_8cab_756ee3c82191</item>
+      <item>EGCN_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_32dff3bf_7f87_485d_a110_ad069f944405</item>
+      <item>EGGD_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1a49b75b_45bf_46ba_b49e_c7a871a5508f</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings intersection-snapping="0" minScale="0" type="1" maxScale="0" enabled="0" mode="2" unit="1" tolerance="12" scaleDependencyMode="0" self-snapping="0">
+  <snapping-settings scaleDependencyMode="0" minScale="0" unit="1" mode="2" tolerance="12" intersection-snapping="0" maxScale="0" enabled="0" type="1" self-snapping="0">
     <individual-layer-settings/>
   </snapping-settings>
   <relations/>
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>meters</units>
     <extent>
-      <xmin>-1000511.45579596143215895</xmin>
-      <ymin>6709706.16976911202073097</ymin>
-      <xmax>-921430.41390162985771894</xmax>
-      <ymax>6821804.10491085425019264</ymax>
+      <xmin>-395760.79601139563601464</xmin>
+      <ymin>6607373.71979655046015978</ymin>
+      <xmax>-132235.07786619837861508</xmax>
+      <ymax>6769886.75689662713557482</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -138,109 +150,124 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="BIKF VFR Routes.pdf_modified">
+    <legendlayer drawingOrder="-1" name="BIKF VFR Routes.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="BIKF_VFR_Routes_pdf_modified_87c41719_a30a_4bd3_9032_c1e25045f4aa" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="BIKF_VFR_Routes_pdf_modified_87c41719_a30a_4bd3_9032_c1e25045f4aa"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="BIRK VFR Routes.pdf_modified">
+    <legendlayer drawingOrder="-1" name="BIRK VFR Routes.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="BIRK_VFR_Routes_pdf_modified_da6bd924_300f_4d91_be6e_c05f9c5a11e7" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="BIRK_VFR_Routes_pdf_modified_da6bd924_300f_4d91_be6e_c05f9c5a11e7"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGBB AD 2-4-3 CONTROL ZONE and CONTROL AREA CHART - VRPS.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGBB_AD_2_4_3_CONTROL_ZONE_and_CONTROL_AREA_CHART___VRPS_pdf_modified_94c4d759_32d2_4a42_8cab_756ee3c82191"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGCC AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGCC_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_751eef0d_941a_4a7a_8228_3bb699c3745f"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGCN AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGGP_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_67fb0098_ef05_4d5b_b733_e05634cc6b58" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGCN_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_32dff3bf_7f87_485d_a110_ad069f944405"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGFF AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - LOCAL FLYING and ENTRY EXIT PROCEDURES.pdf_modified" open="true" checked="Qt::Unchecked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGGW_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1b710562_a2ec_4fb3_90c8_0ac1a1096c7f" visible="1"/>
+        <legendlayerfile visible="0" isInOverview="0" layerid="EGFF_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___LOCAL_FLYING_and_ENTRY_EXIT_PROCEDURES_pdf_modified_ce7ba455_d2eb_4618_ad8a_0af61fd918b3"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGGD AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGGD_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1a49b75b_45bf_46ba_b49e_c7a871a5508f"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGGP AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGGP_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_67fb0098_ef05_4d5b_b733_e05634cc6b58"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGGW AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGPH_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_7dce88eb_233d_4e58_84df_8a6965b9bbed" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGGW_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1b710562_a2ec_4fb3_90c8_0ac1a1096c7f"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGHI AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGHI_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_34e6c068_51ce_49fd_b573_e798749457fd"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGNX AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGNX_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_c8f85552_952f_4382_8673_25fcd27e6fa4"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGPH AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGPH_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS_pdf_modified_7dce88eb_233d_4e58_84df_8a6965b9bbed"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EGSS AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART - ENTRY-EXIT LANES and VRPS - TRANSPONDER MANDATORY ZONES.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EGSS_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART___ENTRY_EXIT_LANES_and_VRPS___TRANSPONDER_MANDATORY_ZONES_pdf_modified_415d1dd6_81a1_4397_81ab_9b525f4447ef"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EICK AD 2.24-28 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EIDL AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EIDW AD 2.24-44 Visual Approach Chart- ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EIDW_AD_2_24_44_Visual_Approach_Chart__ICAO_pdf_modified_71ec4d3c_c88c_44b3_bc7a_aed83b3f2ae2"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EIKN AD 2.24-19 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc" visible="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0" open="true" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified">
+    <legendlayer drawingOrder="-1" name="EIKY AD 2.24-13 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="EIWF_AD_2_24_7_Visual_Approach_Chart___ICAO_pdf_modified_ced6926a_5b39_4a69_a0ff_556459bf094b" visible="1"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EIKY_AD_2_24_13_Visual_Approach_Chart___ICAO_pdf_modified_7b7787fe_d598_4639_9ae6_d1712692103a"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="OpenTopoMap">
+    <legendlayer drawingOrder="-1" name="EINN AD 2.24-15 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292" visible="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EINN_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0df97c3e_9c1d_45dd_a099_6cf0d9fdb425"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="OpenStreetMap">
+    <legendlayer drawingOrder="-1" name="EISG AD 2.24-16 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964" visible="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EISG_AD_2_24_16_Visual_Approach_Chart___ICAO_pdf_modified_28915aaa_c095_49d3_bbb9_984434eb95fc"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" checked="Qt::Unchecked" showFeatureCount="0" open="true" name="Google Maps - Terrain">
+    <legendlayer drawingOrder="-1" name="EIWF AD 2.24-7 Visual Approach Chart - ICAO.pdf_modified" open="true" checked="Qt::Checked" showFeatureCount="0">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e" visible="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="EIWF_AD_2_24_7_Visual_Approach_Chart___ICAO_pdf_modified_ced6926a_5b39_4a69_a0ff_556459bf094b"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" name="OpenTopoMap" open="true" checked="Qt::Unchecked" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="0" isInOverview="0" layerid="OpenTopoMap_9ddbba67_0331_4ba3_925e_26ed312e7292"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" name="OpenStreetMap" open="true" checked="Qt::Checked" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" isInOverview="0" layerid="OpenStreetMap_9b661f7f_2f3f_44e2_94da_ab4991686964"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" name="Google Maps - Terrain" open="true" checked="Qt::Unchecked" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="0" isInOverview="0" layerid="Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -249,16 +276,16 @@
   <mapcanvas annotationsVisible="1" name="georefCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>547.8576169274303993</xmin>
-      <ymin>-662.73641394806986682</ymin>
-      <xmax>896.7482419274303993</xmax>
-      <ymax>-169.70516394806992366</ymax>
+      <xmin>565.73259493671071141</xmin>
+      <ymin>-3695.33544303797225439</ymin>
+      <xmax>2115.98259493671412201</xmax>
+      <ymax>-1427.33544303797225439</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
     <expressionContextScope/>
   </mapcanvas>
-  <main-annotation-layer type="annotation" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" autoRefreshEnabled="0">
+  <main-annotation-layer autoRefreshEnabled="0" type="annotation" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
     <id>Annotations_55ba380b_7f72_4a76_89a6_087d57690f3f</id>
     <datasource></datasource>
     <keywordList>
@@ -307,7 +334,7 @@
     <layerOpacity>1</layerOpacity>
   </main-annotation-layer>
   <projectlayers>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-2584086.42732174461707473</xmin>
         <ymin>9274144.78269114531576633</ymin>
@@ -366,7 +393,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -390,23 +417,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -417,14 +444,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-2508689.83999651344493032</xmin>
         <ymin>9286117.20905495807528496</ymin>
@@ -483,7 +510,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -507,23 +534,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -534,14 +561,131 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
+      <extent>
+        <xmin>380196.49628364114323631</xmin>
+        <ymin>234286.32985885202651843</ymin>
+        <xmax>446212.23328875872539356</xmax>
+        <ymax>330648.26755391259212047</ymax>
+      </extent>
+      <id>EGBB_AD_2_4_3_CONTROL_ZONE_and_CONTROL_AREA_CHART___VRPS_pdf_modified_94c4d759_32d2_4a42_8cab_756ee3c82191</id>
+      <datasource>./EGBB/EGBB AD 2-4-3 CONTROL ZONE and CONTROL AREA CHART - VRPS.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EGBB AD 2-4-3 CONTROL ZONE and CONTROL AREA CHART - VRPS.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
+          <srsid>2437</srsid>
+          <srid>27700</srid>
+          <authid>EPSG:27700</authid>
+          <description>OSGB 1936 / British National Grid</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>airy</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>0</Searchable>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>314658.11863204190740362</xmin>
         <ymin>354022.74960509594529867</ymin>
@@ -600,7 +744,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -624,23 +768,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -651,14 +795,131 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
+      <extent>
+        <xmin>435682.34641869022743776</xmin>
+        <ymin>351879.59231756534427404</ymin>
+        <xmax>489205.9987832231563516</xmax>
+        <ymax>429358.06394159264164045</ymax>
+      </extent>
+      <id>EGCN_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_32dff3bf_7f87_485d_a110_ad069f944405</id>
+      <datasource>./EGCN/EGCN AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EGCN AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
+          <srsid>2437</srsid>
+          <srid>27700</srid>
+          <authid>EPSG:27700</authid>
+          <description>OSGB 1936 / British National Grid</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>airy</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>0</Searchable>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>281954.03654583269963041</xmin>
         <ymin>103662.27550437545869499</ymin>
@@ -717,7 +978,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -740,23 +1001,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -782,14 +1043,131 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
+      <extent>
+        <xmin>320008.85933581506833434</xmin>
+        <ymin>138555.28186089833616279</ymin>
+        <xmax>401105.16129904676927254</xmax>
+        <ymax>194078.52687530592083931</ymax>
+      </extent>
+      <id>EGGD_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1a49b75b_45bf_46ba_b49e_c7a871a5508f</id>
+      <datasource>./EGGD/EGGD AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EGGD AD 2-4-1 CONTROL ZONE and CONTROL AREA CHART.pdf_modified</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCS["OSGB 1936 / British National Grid",GEOGCS["OSGB 1936",DATUM["OSGB_1936",SPHEROID["Airy 1830",6377563.396,299.3249646,AUTHORITY["EPSG","7001"]],TOWGS84[446.448,-125.157,542.06,0.15,0.247,0.842,-20.489],AUTHORITY["EPSG","6277"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4277"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-2],PARAMETER["scale_factor",0.9996012717],PARAMETER["false_easting",400000],PARAMETER["false_northing",-100000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","27700"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs</proj4>
+          <srsid>2437</srsid>
+          <srid>27700</srid>
+          <authid>EPSG:27700</authid>
+          <description>OSGB 1936 / British National Grid</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>airy</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>0</Searchable>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>297111.38204006565501913</xmin>
         <ymin>355933.85431510407943279</ymin>
@@ -848,7 +1226,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -872,23 +1250,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -899,14 +1277,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>477380.45607605698751286</xmin>
         <ymin>204110.37634160270681605</ymin>
@@ -965,7 +1343,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -989,23 +1367,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -1016,14 +1394,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>414968.74833182559814304</xmin>
         <ymin>61634.72403065495018382</ymin>
@@ -1082,7 +1460,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1106,23 +1484,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -1133,14 +1511,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>409649.11428701505064964</xmin>
         <ymin>268495.48486446990864351</ymin>
@@ -1199,7 +1577,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1223,23 +1601,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -1250,14 +1628,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>260722.19060766202164814</xmin>
         <ymin>640606.07366870134137571</ymin>
@@ -1316,7 +1694,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1340,23 +1718,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -1367,14 +1745,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>502402.44823506666580215</xmin>
         <ymin>188452.63889235616079532</ymin>
@@ -1433,7 +1811,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1457,23 +1835,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -1484,14 +1862,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-990718.7053211786551401</xmin>
         <ymin>6708668.79241002164781094</ymin>
@@ -1550,7 +1928,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1571,25 +1949,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -1615,14 +1993,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-977009.62101501738652587</xmin>
         <ymin>7300514.67125301714986563</ymin>
@@ -1681,7 +2059,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1703,25 +2081,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -1732,14 +2110,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-777164.98321646032854915</xmin>
         <ymin>7014249.13804788142442703</ymin>
@@ -1798,7 +2176,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1821,23 +2199,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -1863,14 +2241,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-1028068.19675660494249314</xmin>
         <ymin>7084223.23180478624999523</ymin>
@@ -1929,7 +2307,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1950,25 +2328,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -1994,14 +2372,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-1104847.96289648790843785</xmin>
         <ymin>6765315.53002213407307863</ymin>
@@ -2060,7 +2438,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -2081,25 +2459,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -2125,14 +2503,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-1038249.97155243100132793</xmin>
         <ymin>6862482.08693887107074261</ymin>
@@ -2191,7 +2569,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -2214,23 +2592,23 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -2256,14 +2634,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-1002992.76284131244756281</xmin>
         <ymin>7155518.08431961480528116</ymin>
@@ -2322,7 +2700,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -2343,25 +2721,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="-1" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="-1" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>CumulativeCut</limits>
@@ -2387,14 +2765,14 @@
             <algorithm>StretchToMinimumMaximum</algorithm>
           </blueContrastEnhancement>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-832412.65499186550732702</xmin>
         <ymin>6774325.62794947531074286</ymin>
@@ -2453,7 +2831,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="0" crs="" maxz="0" miny="0" minz="0" maxx="0" dimensions="2" minx="0"/>
+          <spatial crs="" minx="0" dimensions="2" maxz="0" miny="0" maxx="0" minz="0" maxy="0"/>
           <temporal>
             <period>
               <start></start>
@@ -2475,25 +2853,25 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="WMSBackgroundLayer" value="false"/>
-        <property key="WMSPublishDataSourceUrl" value="false"/>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Value"/>
+        <property value="false" key="WMSBackgroundLayer"/>
+        <property value="false" key="WMSPublishDataSourceUrl"/>
+        <property value="0" key="embeddedWidgets/count"/>
+        <property value="Value" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="cubic" enabled="false" zoomedOutResamplingMethod="cubic" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="multibandcolor" alphaBand="4" greenBand="2" nodataColor="" opacity="1" redBand="1" blueBand="3">
+        <rasterrenderer alphaBand="4" opacity="1" nodataColor="" redBand="1" type="multibandcolor" greenBand="2" blueBand="3">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -2504,14 +2882,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2" zoomedInResampler="cubic" zoomedOutResampler="cubic"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
+        <rasterresampler zoomedOutResampler="cubic" zoomedInResampler="cubic" maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -2519,7 +2897,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>Google_Maps___Terrain_8a26fde4_0dc4_407c_aba6_a2c57bcc2b1e</id>
-      <datasource>type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=22&amp;zmin=0</datasource>
+      <datasource>crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=22&amp;zmin=0</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2572,22 +2950,22 @@
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
-        <Searchable>1</Searchable>
+        <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="identify/format" value="Undefined"/>
+        <property value="Undefined" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="singlebandcolordata" band="1" alphaBand="-1" nodataColor="" opacity="1">
+        <rasterrenderer alphaBand="-1" band="1" opacity="1" nodataColor="" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -2598,14 +2976,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -2639,7 +3017,7 @@
         <title>OpenStreetMap tiles</title>
         <abstract>OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.</abstract>
         <links>
-          <link type="WWW:LINK" size="" mimeType="" format="" url="https://www.openstreetmap.org/" name="Source" description=""/>
+          <link size="" mimeType="" format="" url="https://www.openstreetmap.org/" type="WWW:LINK" description="" name="Source"/>
         </links>
         <fees></fees>
         <rights>Base map and data from OpenStreetMap and OpenStreetMap Foundation (CC-BY-SA). © https://www.openstreetmap.org and contributors.</rights>
@@ -2660,7 +3038,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial maxy="85.05112877980660357" crs="EPSG:4326" maxz="0" miny="-85.05112877980660357" minz="0" maxx="180" dimensions="2" minx="-180"/>
+          <spatial crs="EPSG:4326" minx="-180" dimensions="2" maxz="0" miny="-85.05112877980660357" maxx="180" minz="0" maxy="85.05112877980660357"/>
         </extent>
       </resourceMetadata>
       <provider>wms</provider>
@@ -2675,20 +3053,20 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="identify/format" value="Undefined"/>
+        <property value="Undefined" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="singlebandcolordata" band="1" alphaBand="-1" nodataColor="" opacity="1">
+        <rasterrenderer alphaBand="-1" band="1" opacity="1" nodataColor="" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -2699,14 +3077,14 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" minScale="1e+8" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
+    <maplayer hasScaleBasedVisibilityFlag="0" minScale="1e+8" maxScale="0" autoRefreshEnabled="0" type="raster" styleCategories="AllStyleCategories" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -2769,20 +3147,20 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property key="identify/format" value="Undefined"/>
+        <property value="Undefined" key="identify/format"/>
       </customproperties>
       <pipe>
         <provider>
           <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer type="singlebandcolordata" band="1" alphaBand="-1" nodataColor="" opacity="1">
+        <rasterrenderer alphaBand="-1" band="1" opacity="1" nodataColor="" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -2793,8 +3171,8 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeGreen="128" colorizeOn="0" colorizeRed="255" saturation="0" colorizeStrength="100"/>
+        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeBlue="128" saturation="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" grayscaleMode="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
@@ -2823,6 +3201,9 @@
     <layer id="EIKN_AD_2_24_19_Visual_Approach_Chart___ICAO_pdf_modified_d0ef70a4_9a1e_4eae_bbc9_37f6a976c429"/>
     <layer id="EIDL_AD_2_24_15_Visual_Approach_Chart___ICAO_pdf_modified_0fa1a645_26d3_4c03_9727_6593d451c1dd"/>
     <layer id="EICK_AD_2_24_28_Visual_Approach_Chart___ICAO_pdf_modified_b07cd752_ef9c_4511_b85b_77367d246c97"/>
+    <layer id="EGBB_AD_2_4_3_CONTROL_ZONE_and_CONTROL_AREA_CHART___VRPS_pdf_modified_94c4d759_32d2_4a42_8cab_756ee3c82191"/>
+    <layer id="EGCN_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_32dff3bf_7f87_485d_a110_ad069f944405"/>
+    <layer id="EGGD_AD_2_4_1_CONTROL_ZONE_and_CONTROL_AREA_CHART_pdf_modified_1a49b75b_45bf_46ba_b49e_c7a871a5508f"/>
   </layerorder>
   <properties>
     <DefaultStyles>
@@ -2901,7 +3282,7 @@
     <WMSContactPerson type="QString"></WMSContactPerson>
     <WMSContactPhone type="QString"></WMSContactPhone>
     <WMSContactPosition type="QString"></WMSContactPosition>
-    <WMSDefaultMapUnitsPerMm type="double">7.270003431560645e-16</WMSDefaultMapUnitsPerMm>
+    <WMSDefaultMapUnitsPerMm type="double">-4.656612873077393e-13</WMSDefaultMapUnitsPerMm>
     <WMSFees type="QString">conditions unknown</WMSFees>
     <WMSImageQuality type="int">90</WMSImageQuality>
     <WMSKeywordList type="QStringList">
@@ -2942,16 +3323,16 @@
   </properties>
   <dataDefinedServerProperties>
     <Option type="Map">
-      <Option type="QString" value="" name="name"/>
+      <Option value="" type="QString" name="name"/>
       <Option name="properties"/>
-      <Option type="QString" value="collection" name="type"/>
+      <Option value="collection" type="QString" name="type"/>
     </Option>
   </dataDefinedServerProperties>
   <visibility-presets/>
   <transformContext>
-    <srcDest source="EPSG:27700" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" destTransform="" dest="EPSG:3857"/>
-    <srcDest source="EPSG:27700" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" destTransform="" dest="EPSG:4326"/>
-    <srcDest source="EPSG:3857" sourceTransform="" destTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" dest="EPSG:7405"/>
+    <srcDest destTransform="" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" dest="EPSG:3857" source="EPSG:27700"/>
+    <srcDest destTransform="" sourceTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" dest="EPSG:4326" source="EPSG:27700"/>
+    <srcDest destTransform="+towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489" sourceTransform="" dest="EPSG:7405" source="EPSG:3857"/>
   </transformContext>
   <projectMetadata>
     <identifier></identifier>
@@ -2978,7 +3359,7 @@
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymax="6821804.10491085425019264" ymin="6709706.16976911202073097" xmax="-869248.12067264306824654" xmin="-1052693.74902494833804667">
+    <DefaultViewExtent ymax="6769886.75689662713557482" ymin="6607373.71979655046015978" xmin="-396972.31406969099771231" xmax="-131023.55980790298781358">
       <spatialrefsys>
         <wkt>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</wkt>
         <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
@@ -2992,18 +3373,18 @@
       </spatialrefsys>
     </DefaultViewExtent>
   </ProjectViewSettings>
-  <ProjectTimeSettings frameRate="1" timeStepUnit="h" timeStep="1" cumulativeTemporalRange="0"/>
+  <ProjectTimeSettings timeStep="1" timeStepUnit="h" cumulativeTemporalRange="0" frameRate="1"/>
   <ProjectDisplaySettings>
     <BearingFormat id="bearing">
       <Option type="Map">
-        <Option type="QChar" value="" name="decimal_separator"/>
-        <Option type="int" value="6" name="decimals"/>
-        <Option type="int" value="0" name="direction_format"/>
-        <Option type="int" value="0" name="rounding_type"/>
-        <Option type="bool" value="false" name="show_plus"/>
-        <Option type="bool" value="true" name="show_thousand_separator"/>
-        <Option type="bool" value="false" name="show_trailing_zeros"/>
-        <Option type="QChar" value="" name="thousand_separator"/>
+        <Option value="" type="QChar" name="decimal_separator"/>
+        <Option value="6" type="int" name="decimals"/>
+        <Option value="0" type="int" name="direction_format"/>
+        <Option value="0" type="int" name="rounding_type"/>
+        <Option value="false" type="bool" name="show_plus"/>
+        <Option value="true" type="bool" name="show_thousand_separator"/>
+        <Option value="false" type="bool" name="show_trailing_zeros"/>
+        <Option value="" type="QChar" name="thousand_separator"/>
       </Option>
     </BearingFormat>
   </ProjectDisplaySettings>
