@@ -25,7 +25,7 @@ export async function downloadDocuments(targetPath: string, airports?: Airport[]
       continue;
     }
 
-    const aptPath = path.join(targetPath, icao);
+    const aptPath = path.join(targetPath, "AIP", icao);
 
     await mkdir(aptPath, {
       recursive: true,

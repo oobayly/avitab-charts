@@ -67,7 +67,7 @@ const argv = yargs(hideBin(process.argv))
         }, [] as Document[]);
 
       vfr.forEach((doc) => {
-        const srcFile = path.join(chartsPath, doc.icao, doc.fileName);
+        const srcFile = path.join(chartsPath, "AIP", doc.icao, doc.fileName);
         const trgFolder = path.join(chartsPath, "VFR", doc.icao);
         const trgFile = path.join(trgFolder, doc.fileName);
         const trgFileConfig = `${trgFile}.json`;
@@ -130,7 +130,7 @@ const argv = yargs(hideBin(process.argv))
     }
   )
   .options({
-    path: { alias: "p", type: "string", description: "The path of the AIP folder", default: "charts" },
+    path: { alias: "p", type: "string", description: "The path of the AIP folder", default: "Charts" },
   })
   .help()
   .alias("help", "h")
