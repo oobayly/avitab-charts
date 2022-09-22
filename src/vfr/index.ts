@@ -1,5 +1,5 @@
 import { execSync } from "child_process";
-import { copyFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
+import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "fs";
 import { imageSize } from "image-size";
 import * as path from "path";
 import proj4 = require("proj4");
@@ -100,12 +100,15 @@ export const calibrate = (chartsPath: string, airports: Airport[], outputPath: s
   vfr.forEach((doc) => {
     const { icao } = doc;
     const folder = getFolder(chartsPath, doc);
-    const outputFolder = path.join(outputPath, "VFR", icao);
     const pdfPath = path.join(folder, doc.fileName);
     const baseName = pdfPath.replace(/\.pdf$/, "");
     const configPath = `${pdfPath}.json`;
     const pngPath = `${baseName}.png`;
     const pgwPath = `${baseName}.pgw`;
+
+    const outputFolder = path.join(outputPath, "VFR", icao);
+    const outPdf = path.join(outputFolder, path.basename(pdfPath));
+    const outPdfConfig = `${outPdf}.json`;
 
     const calibration = getCalibrationFromPgw(pngPath, pgwPath);
 
@@ -113,15 +116,16 @@ export const calibrate = (chartsPath: string, airports: Airport[], outputPath: s
 
     if (calibration) {
       copyFileSync(pngPath, path.join(outputFolder, path.basename(pngPath)));
-
       writeFileSync(
         path.join(outputFolder, path.basename(`${pngPath}.json`)),
         JSON.stringify({ calibration }, null, 2),
         "utf-8",
       );
+      rmSync(outPdf, { force: true });
+      rmSync(outPdfConfig, { force: true });
     } else {
-      copyFileSync(pdfPath, path.join(outputFolder, path.basename(pdfPath)));
-      copyFileSync(configPath, path.join(outputFolder, path.basename(configPath)));
+      copyFileSync(pdfPath, outPdf);
+      copyFileSync(configPath, outPdfConfig);
     }
   });
 }
